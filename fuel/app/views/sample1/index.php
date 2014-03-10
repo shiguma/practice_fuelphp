@@ -7,5 +7,7 @@
 <body>
 	<h1>Hello,world!</h1>
 	<p>これはsample1ビューファイルです</p>
+	<p>タイトル = <?php echo $title; ?></p>
+	<p>ユーザ名 = <?php echo $username ?></p>
 </body>
 </html>
